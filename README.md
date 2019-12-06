@@ -1,8 +1,1 @@
-# A-Rusty-GCI
-fn main() {
-
-//first coding experience!!
-
-println!("Hello, GCI!");
-
-}
+//This is to run a rust program for GCI
